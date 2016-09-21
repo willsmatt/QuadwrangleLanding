@@ -142,6 +142,9 @@ section.section-two {
     padding-left:40px !important;
     padding-top:40px !important;
 }
+.qr-item .secondary-content {
+    color: #f15822 !important;
+}
 @media (max-width:600px) {
     .landing-hero {
     background:url(../img/slider.jpg);
