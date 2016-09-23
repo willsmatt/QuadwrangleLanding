@@ -8,6 +8,10 @@ html {
     background:#ffffff;
     box-shadow: none !important;
 }
+nav ul a, nav a {
+    color: #000 !important;
+    font-weight:bold;
+}
 nav .brand-logo {
     height: 64px;
 }
@@ -95,6 +99,9 @@ nav .brand-logo {
     background: #ffffff !important;
     color: #f15822;
 }
+footer a {
+    color: #fff;
+}
 section.section-two {
     
 }
@@ -129,6 +136,9 @@ section.section-two {
     right: 10px;
     transform: translate(0%, -50%);
 
+}
+.img-align {
+    margin-top:80px;
 }
 .collection-header {
    background:#f15822 !important;
